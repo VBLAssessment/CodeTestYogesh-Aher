@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest-UnitTests\\CandidateCodeTest-UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest-UnitTests\\CandidateCodeTest-UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest-UnitTests\\CandidateCodeTest-UnitTests.csproj",
+        "projectName": "CandidateCodeTest-UnitTests",
+        "projectPath": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest-UnitTests\\CandidateCodeTest-UnitTests.csproj",
+        "packagesPath": "C:\\Users\\ayoge\\.nuget\\packages\\",
+        "outputPath": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest-UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ayoge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest\\CandidateCodeTest.csproj": {
+                "projectPath": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest\\CandidateCodeTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest\\CandidateCodeTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest\\CandidateCodeTest.csproj",
+        "projectName": "CandidateCodeTest",
+        "projectPath": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest\\CandidateCodeTest.csproj",
+        "packagesPath": "C:\\Users\\ayoge\\.nuget\\packages\\",
+        "outputPath": "C:\\yogesh\\Github\\yogesh-ust\\Vanquis Assessment 2\\CandidateCodeTest\\CandidateCodeTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ayoge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2-pre.12, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

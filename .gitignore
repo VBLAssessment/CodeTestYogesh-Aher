@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Vanquis Assessment 2/FileContentIndex
+/.vs/Vanquis Assessment 2/v17
+/.vs
+/CandidateCodeTest/.vs/CandidateCodeTest/DesignTimeBuild
+/CandidateCodeTest/.vs/CandidateCodeTest/FileContentIndex
+/CandidateCodeTest/.vs
